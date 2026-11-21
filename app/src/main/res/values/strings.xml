@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volume Camera</string>
+    <string name="accessibility_description">Usa dois toques rápidos no botão de volume para iniciar ou parar a gravação.</string>
+</resources>
